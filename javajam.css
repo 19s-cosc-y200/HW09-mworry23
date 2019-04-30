@@ -1,7 +1,7 @@
 /*
 Project Name: JavaJam Web Site (HW9)
 Author: Megan Worry 
-Date Last Modified: April 24, 2019
+Date Last Modified: April 30, 2019
 JavaJam Coffee House is the best. 
 */
 
@@ -14,7 +14,6 @@ body {
 	background-color: #FCEBB6;
 	color:#221811;
 	font-family: Verdana, Arial, sans-serif;}
-}
 header {
 	background-color: #D2B48C;
 	text-align: center;
@@ -29,14 +28,4 @@ footer {
 	font-size:.60em;
 	font-style:italic;
 	text-align:center;}
-h1 {line-height: 200%;}
-nav {
-	font-weight: bold;
-	text-align:center;
-}
-footer {
-	background-color: #D2B48C;
-	font-size: .60em;
-	font-style: italic;
-	text-align: center;
-}
+
